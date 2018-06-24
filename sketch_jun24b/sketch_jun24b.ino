@@ -10,7 +10,7 @@ void setup() {
     digitalWrite(pinNumber, LOW);
   }
 
-  // turn off the LED
+  // turn off the LED 
   pinMode(13, OUTPUT);
 }
 
